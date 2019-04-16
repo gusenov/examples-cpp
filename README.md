@@ -10,6 +10,10 @@
 
 - [Scoped и un-scoped перечисления с указанием нижележащего интегрального (целочисленного) типа](syncfusion/cpp_succinctly/EnumSample)
 
+# Объединения
+
+- [Анонимное объединение внутри структуры с отслеживанием активного элемента](syncfusion/cpp_succinctly/UnionSample)
+
 # Кросс-платформенность
 
 - [Портируемая точка входа](syncfusion/cpp_succinctly/pchar.h)
