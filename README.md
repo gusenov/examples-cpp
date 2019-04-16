@@ -1,3 +1,7 @@
+# Ввод / вывод
+
+- [std::wcout, std::wcerr, std::wcin](syncfusion/cpp_succinctly/ConsoleSample)
+
 # Классы
 
 - [Особенности использования переменных из member initializer list для инициализации других переменных](member-initializer-list-params/)
