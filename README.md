@@ -1,3 +1,7 @@
+# Операторы
+
+- [Написание оператора разрешения области видимости ::](double-colon-scope-resolution-operator-syntax/)
+
 # Ввод / вывод
 
 - [std::wcout, std::wcerr, std::wcin](syncfusion/cpp_succinctly/ConsoleSample)
@@ -17,3 +21,4 @@
 # Кросс-платформенность
 
 - [Портируемая точка входа](syncfusion/cpp_succinctly/pchar.h)
+
