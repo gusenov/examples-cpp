@@ -10,6 +10,8 @@
 
 # Типы данных
 
+- [Создание псевдонимов для типов с помощью typedef](syncfusion/cpp_succinctly/TypedefSample)
+
 ## Перечисления
 
 - [Scoped и un-scoped перечисления с указанием нижележащего интегрального (целочисленного) типа](syncfusion/cpp_succinctly/EnumSample)
@@ -26,4 +28,3 @@
 # Кросс-платформенность
 
 - [Портируемая точка входа](syncfusion/cpp_succinctly/pchar.h)
-
