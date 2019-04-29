@@ -1,3 +1,8 @@
+# Пространства имён
+
+- [Глобальные переменные в глобальном пространстве имён](syncfusion/cpp_succinctly/GlobalNamespaceSample/)
+
+
 # Операторы
 
 - [Написание оператора разрешения области видимости ::](double-colon-scope-resolution-operator-syntax/)
