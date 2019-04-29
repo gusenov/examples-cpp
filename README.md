@@ -1,6 +1,7 @@
 # Пространства имён
 
 - [Глобальные переменные в глобальном пространстве имён](syncfusion/cpp_succinctly/GlobalNamespaceSample/)
+- [Определение вложенных пространств имён](syncfusion/cpp_succinctly/NamespacesSample/)
 
 
 # Операторы
