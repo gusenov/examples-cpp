@@ -35,6 +35,11 @@
 - [Декларация интерфейсов в C++](declare-interface-cpp/)
 
 
+# Функции
+
+- [Декларация и дефиниция inline-функций в пространстве имён](syncfusion/cpp_succinctly/FunctionsSample)
+
+
 # Кросс-платформенность
 
 - [Портируемая точка входа](syncfusion/cpp_succinctly/pchar.h)
