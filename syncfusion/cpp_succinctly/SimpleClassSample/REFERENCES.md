@@ -1,0 +1,1 @@
+- [syncfusion / cpp_succinctly / SimpleClassSample — Bitbucket](https://bitbucket.org/syncfusion/cpp_succinctly/src/master/SimpleClassSample/)
