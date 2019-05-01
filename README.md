@@ -37,6 +37,7 @@
 
 # Функции
 
+- [Объявление и определение функции в разных местах](declaration-and-definition-of-stand-alone-function-in-different-places)
 - [Декларация и дефиниция inline-функций в пространстве имён](syncfusion/cpp_succinctly/FunctionsSample)
 - [Декларация и дефиниция inline-функций в классе](syncfusion/cpp_succinctly/SimpleClassSample)
 
