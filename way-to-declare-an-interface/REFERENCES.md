@@ -1,0 +1,1 @@
+- [c++ - Best way to declare an interface in C++11 - Stack Overflow](https://stackoverflow.com/questions/14323595/best-way-to-declare-an-interface-in-c11)
