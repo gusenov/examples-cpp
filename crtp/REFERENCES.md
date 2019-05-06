@@ -1,0 +1,1 @@
+- [c++ - Confusion about CRTP static polymorphism - Stack Overflow](https://stackoverflow.com/questions/43821541/confusion-about-crtp-static-polymorphism)
