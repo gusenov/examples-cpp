@@ -43,6 +43,7 @@
 
 ### Интерфейсы
 
+- [Пример имитации интерфейса IWriteData абстрактным классом](syncfusion/cpp_succinctly/AbstractClassSample)
 - [Декларация интерфейсов в C++](declare-interface-cpp/)
 - [Способы декларировать интерфейс в C++11](way-to-declare-an-interface/)
 - [Пример интерфейса автомобиля с использованием динамического полиморфизма и ключевого слова struct](interfaces/virtual/example-1)
