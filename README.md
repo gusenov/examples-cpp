@@ -4,6 +4,11 @@
 - [Определение вложенных пространств имён](syncfusion/cpp_succinctly/NamespacesSample/)
 
 
+# Переменные
+
+- [Время существования переменных](syncfusion/cpp_succinctly/StorageDurationSample/)
+
+
 # Операторы
 
 - [Написание оператора разрешения области видимости ::](double-colon-scope-resolution-operator-syntax/)
