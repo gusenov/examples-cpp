@@ -38,6 +38,7 @@
 ### Конструкторы
 
 - [Конструктор преобразования](syncfusion/cpp_succinctly/ConversionConstructor)
+- [Инициализация данных и суперклассов](syncfusion/cpp_succinctly/InitializationSample)
 
 ### Деструкторы
 
