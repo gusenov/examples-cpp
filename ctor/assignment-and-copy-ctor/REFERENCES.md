@@ -1,0 +1,1 @@
+- [c++ - Why doesn't default assignment operator call the destructor first? - Stack Overflow](https://stackoverflow.com/questions/16341058/why-doesnt-default-assignment-operator-call-the-destructor-first)

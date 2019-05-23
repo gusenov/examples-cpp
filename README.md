@@ -37,6 +37,7 @@
 
 ### Конструкторы
 
+- [Присваивание не вызывает конструктор копирования или деструктор](ctor/assignment-and-copy-ctor)
 - [Конструктор преобразования](syncfusion/cpp_succinctly/ConversionConstructor)
 - [Инициализация данных и суперклассов](syncfusion/cpp_succinctly/InitializationSample)
 - [Делегирующий конструктор](syncfusion/cpp_succinctly/DelegatingConstructor)
