@@ -41,6 +41,7 @@
 - [Конструктор преобразования](syncfusion/cpp_succinctly/ConversionConstructor)
 - [Инициализация данных и суперклассов](syncfusion/cpp_succinctly/InitializationSample)
 - [Делегирующий конструктор](syncfusion/cpp_succinctly/DelegatingConstructor)
+- [Конструкторы копирования/перемещения и операторы присваивания копированием/перемещением](syncfusion/cpp_succinctly/ConstructorsSample)
 
 ### Деструкторы
 
