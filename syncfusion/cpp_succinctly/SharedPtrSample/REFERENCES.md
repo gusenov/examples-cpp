@@ -1,0 +1,2 @@
+- [std::make_shared vs. the Normal std::shared_ptr Constructor - Simplify C++!](https://arne-mertz.de/2018/09/make_shared-vs-the-normal-shared_ptr-constructor/)
+- [c++11 - Difference in make_shared and normal shared_ptr in C++ - Stack Overflow](https://stackoverflow.com/questions/20895648/difference-in-make-shared-and-normal-shared-ptr-in-c)

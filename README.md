@@ -23,6 +23,10 @@
 
 - [Создание псевдонимов для типов с помощью typedef](syncfusion/cpp_succinctly/TypedefSample)
 
+## Указатели
+
+- [Создание разделяемых указателей через конструктор или std::make_shared](syncfusion/cpp_succinctly/SharedPtrSample)
+
 ## Перечисления
 
 - [Scoped и un-scoped перечисления с указанием нижележащего интегрального (целочисленного) типа](syncfusion/cpp_succinctly/EnumSample)
