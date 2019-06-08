@@ -22,6 +22,7 @@
 # Типы данных
 
 - [Создание псевдонимов для типов с помощью typedef](syncfusion/cpp_succinctly/TypedefSample)
+- [Кастинг типов данных](syncfusion/cpp_succinctly/CastingSample)
 
 ## Указатели
 
