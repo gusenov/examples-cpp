@@ -74,6 +74,11 @@
 - [Декларация и дефиниция inline-функций в классе](syncfusion/cpp_succinctly/SimpleClassSample)
 
 
+# Исключения
+
+- [Наследование от std::exception своих исключений](syncfusion/cpp_succinctly/ExceptionsSample)
+
+
 # Кросс-платформенность
 
 - [Портируемая точка входа](syncfusion/cpp_succinctly/pchar.h)
@@ -91,3 +96,7 @@
 
 - [CRTP со статической функцией](crtp/example-1)
 - [Пример одного и того же алгоритма с CRTP и без CRTP](crtp/example-2)
+
+## Pimpl (Pointer to Implementation – указатель на реализацию)
+
+- [Сэндвич](syncfusion/cpp_succinctly/PimplSample)
