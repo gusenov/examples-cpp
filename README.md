@@ -81,6 +81,11 @@
 - [Наследование от std::exception своих исключений](syncfusion/cpp_succinctly/ExceptionsSample)
 
 
+# Шаблоны
+
+- [Пример шаблона класса для выполнения простых арифметических операций](syncfusion/cpp_succinctly/TemplatesSample)
+
+
 # Кросс-платформенность
 
 - [Портируемая точка входа](syncfusion/cpp_succinctly/pchar.h)
