@@ -67,11 +67,13 @@
 - [Пример интерфейса автомобиля с использованием динамического полиморфизма и ключевого слова struct](interfaces/virtual/example-1)
 - [Пример интерфейса генерации числа с использованием динамического полиморфизма и ключевого слова class](interfaces/virtual/example-2)
 
+
 # Функции
 
 - [Объявление и определение функции в разных местах](declaration-and-definition-of-stand-alone-function-in-different-places)
 - [Декларация и дефиниция inline-функций в пространстве имён](syncfusion/cpp_succinctly/FunctionsSample)
 - [Декларация и дефиниция inline-функций в классе](syncfusion/cpp_succinctly/SimpleClassSample)
+- [Лямбда-выражения](syncfusion/cpp_succinctly/LambdaSample)
 
 
 # Исключения
