@@ -1,0 +1,1 @@
+- [c++ must delete a references? - Stack Overflow](https://stackoverflow.com/questions/3078998/c-must-delete-a-references)
