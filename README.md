@@ -48,6 +48,7 @@
 - [Инициализация данных и суперклассов](syncfusion/cpp_succinctly/InitializationSample)
 - [Делегирующий конструктор](syncfusion/cpp_succinctly/DelegatingConstructor)
 - [Конструкторы копирования/перемещения и операторы присваивания копированием/перемещением](syncfusion/cpp_succinctly/ConstructorsSample)
+- [Не вызывается конструктор копирования из-за return value optimization](ctor/return-optimization-copy-ctor)
 
 ### Деструкторы
 
