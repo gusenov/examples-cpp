@@ -58,6 +58,7 @@
 
 - [Можно ли использовать override для невиртуальных методов? Нет.](override/example-1)
 - [Виртуальное и невиртуальное наследование в сравнении](syncfusion/cpp_succinctly/InheritanceSample)
+- [Перекрытие виртуального метода в производном классе методом с аргументом по умолчанию, что вызывает [-Woverloaded-virtual]](inheritance/override-method-with-default-param)
 
 ### Интерфейсы
 

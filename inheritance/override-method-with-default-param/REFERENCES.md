@@ -1,0 +1,2 @@
+- [Warning Options](https://docs.freebsd.org/info/gcc/gcc.info.Warning_Options.html)
+- [c++ overloaded virtual function warning by clang? - Stack Overflow](https://stackoverflow.com/questions/18515183/c-overloaded-virtual-function-warning-by-clang)
