@@ -1,0 +1,2 @@
+- [c++ - std::map::clear and elements' destructors - Stack Overflow](https://stackoverflow.com/questions/13428769/stdmapclear-and-elements-destructors)
+- [unordered_map in C++ STL - GeeksforGeeks](https://www.geeksforgeeks.org/unordered_map-in-cpp-stl/)

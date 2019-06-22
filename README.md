@@ -108,3 +108,12 @@
 ## Pimpl (Pointer to Implementation – указатель на реализацию)
 
 - [Сэндвич](syncfusion/cpp_succinctly/PimplSample)
+
+
+# Стандартная библиотека
+
+## Коллекции
+
+### Словари
+
+- [std::unordered_map при своём разрушении не вызывает деструктор для значений хранящихся по указателю](std/collections/map/unordered-map-el-dtor)
