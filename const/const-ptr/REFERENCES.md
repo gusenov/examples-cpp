@@ -1,0 +1,2 @@
+- [Const Correctness, C++ FAQ](https://isocpp.org/wiki/faq/const-correctness)
+- [What's the relationship between a return-by-reference and a const member function?, C++ FAQ](http://www.cs.technion.ac.il/users/yechiel/c++-faq/return-const-ref-from-const-memfn.html)

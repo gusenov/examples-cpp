@@ -80,6 +80,10 @@
 - [Пример интерфейса генерации числа с использованием динамического полиморфизма и ключевого слова class](interfaces/virtual/example-2)
 
 
+# Константность
+
+- [Указатели и константность по данным и адресу](const/const-ptr)
+
 # Функции
 
 - [Объявление и определение функции в разных местах](declaration-and-definition-of-stand-alone-function-in-different-places)
