@@ -25,6 +25,10 @@
 - [Создание псевдонимов для типов с помощью typedef](syncfusion/cpp_succinctly/TypedefSample)
 - [Кастинг типов данных](syncfusion/cpp_succinctly/CastingSample)
 
+## Примитивные типы данных
+
+- [Размеры фундаментальных типов данных](fundamental/fundamental-type-sz)
+
 ## Указатели
 
 - [Создание разделяемых указателей через конструктор или std::make_shared](syncfusion/cpp_succinctly/SharedPtrSample)
