@@ -1,0 +1,1 @@
+- [How to define a template class in a .h file and implement it in a .cpp file - CodeProject](https://www.codeproject.com/Articles/48575/How-to-define-a-template-class-in-a-h-file-and-imp)
