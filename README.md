@@ -29,6 +29,7 @@
 
 - [Создание разделяемых указателей через конструктор или std::make_shared](syncfusion/cpp_succinctly/SharedPtrSample)
 - [Константные указатели и ссылки](syncfusion/cpp_succinctly/PointerSample)
+- [Освобождение памяти через delete[] для указателя const char* const](ptr/const-char-str-ptr-delete)
 
 ## Перечисления
 
