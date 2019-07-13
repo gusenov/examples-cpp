@@ -1,0 +1,1 @@
+- [c++ - vector of const pointers? - Stack Overflow](https://stackoverflow.com/questions/29378533/vector-of-const-pointers)
