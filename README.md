@@ -17,6 +17,7 @@
 # Ввод / вывод
 
 - [std::wcout, std::wcerr, std::wcin](syncfusion/cpp_succinctly/ConsoleSample)
+- [std::ofstream никогда не создает папки](fs/out-to-file)
 
 
 # Типы данных
