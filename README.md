@@ -28,6 +28,7 @@
 ## Примитивные типы данных
 
 - [Размеры фундаментальных типов данных](fundamental/fundamental-type-sz)
+- [Upcasting знаковых целых и их битовое представление](fundamental/upcasting-signed)
 
 ## Указатели
 
