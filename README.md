@@ -95,6 +95,7 @@
 - [Декларация и дефиниция inline-функций в пространстве имён](syncfusion/cpp_succinctly/FunctionsSample)
 - [Декларация и дефиниция inline-функций в классе](syncfusion/cpp_succinctly/SimpleClassSample)
 - [Лямбда-выражения](syncfusion/cpp_succinctly/LambdaSample)
+- [Реализация функций с переменным числом аргументов через вариативные шаблоны](tpl/variadic-tpl)
 
 
 # Исключения
