@@ -113,6 +113,7 @@
 # Кросс-платформенность
 
 - [Портируемая точка входа](syncfusion/cpp_succinctly/pchar.h)
+- [Порядок от младшего к старшему - little-endian](endianness/little-endian)
 
 
 # Ошибки
