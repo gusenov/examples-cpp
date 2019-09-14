@@ -29,7 +29,7 @@
 
 - [Размеры фундаментальных типов данных](fundamental/fundamental-type-sz)
 - [Upcasting знаковых целых и их битовое представление](fundamental/upcasting-signed)
-- [Бинарное представление char, unsigned char, short и unsigned short]
+- [Бинарное представление char, unsigned char, short и unsigned short](fundamental/bin-repr-of-type-val)
 
 ## Указатели
 
@@ -121,6 +121,7 @@
 
 - [Множественное определение stand-alone функции в исходных файлах](errors/multiple-definitions-of-stand-alone-function-in-source-files)
 - [Множественное определение переменной в исходных файлах](errors/multiple-definitions-of-variables-in-source-files)
+- [Перекрытие лямбда-параметром захваченной переменной](errors/lambda-param-shadow-captured-entity)
 
 
 # Идиомы
