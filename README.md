@@ -143,6 +143,7 @@
 ### Словари
 
 - [std::unordered_map при своём разрушении не вызывает деструктор для значений хранящихся по указателю](std/collections/map/unordered-map-el-dtor)
+- [Изменение значений в словаре путём операций на итератором](std/collections/map/change-map-item-value)
 
 ### Итераторы
 
