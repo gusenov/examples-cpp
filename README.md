@@ -74,6 +74,7 @@
 - [Виртуальное и невиртуальное наследование в сравнении](syncfusion/cpp_succinctly/InheritanceSample)
 - [Перекрытие виртуального метода в производном классе методом с аргументом по умолчанию, что вызывает [-Woverloaded-virtual]](inheritance/override-method-with-default-param)
 - [Переопределение уже определенного в суперклассе виртуального метода](inheritance/hide-virt-member-func)
+- [Аргументы по умолчанию в виртуальных функциях](inheritance/def-arg-and-virt-func)
 
 ### Интерфейсы
 
