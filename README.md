@@ -75,6 +75,7 @@
 - [Перекрытие виртуального метода в производном классе методом с аргументом по умолчанию, что вызывает [-Woverloaded-virtual]](inheritance/override-method-with-default-param)
 - [Переопределение уже определенного в суперклассе виртуального метода](inheritance/hide-virt-member-func)
 - [Аргументы по умолчанию в виртуальных функциях](inheritance/def-arg-and-virt-func)
+- [Переопределение в производном классе возвращаемого типа производным типом](override/override-method-return-value-with-subclass)
 
 ### Интерфейсы
 
