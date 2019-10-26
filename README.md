@@ -31,6 +31,10 @@
 - [Upcasting знаковых целых и их битовое представление](fundamental/upcasting-signed)
 - [Бинарное представление char, unsigned char, short и unsigned short](fundamental/bin-repr-of-type-val)
 
+## Строки
+
+- [Присвоение экземпляру std::string массива char](str/assign-char-arr-to-string)
+
 ## Указатели
 
 - [Создание разделяемых указателей через конструктор или std::make_shared](syncfusion/cpp_succinctly/SharedPtrSample)
