@@ -163,6 +163,7 @@
 - [std::unordered_map при своём разрушении не вызывает деструктор для значений хранящихся по указателю](std/collections/map/unordered-map-el-dtor)
 - [Изменение значений в словаре путём операций на итератором](std/collections/map/change-map-item-value)
 - [Метод insert у std::unordered_map не обновляет существующее значение](std/collections/map/map-insert)
+- [Словарь из словарей со значением из класса по значению](std/collections/map/map-of-maps)
 
 ### Итераторы
 
