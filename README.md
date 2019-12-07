@@ -179,6 +179,7 @@
 ## Контейнеры
 
 - [std::any как параметр функции и передача в него значения с автоматическим преобразованием](std/containers/any/std-any-as-param)
+- [Что будет если применить std::advance к std::unordered_set](std/containers/set/advance-on-set)
 
 
 # Макросы
