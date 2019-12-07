@@ -43,6 +43,7 @@
 - [Освобождение памяти через delete[] для указателя const char* const](ptr/const-char-str-ptr-delete)
 - [Передача указателей в функцию](ptr/pass-ptr-to-func)
 - [Проверка shared_ptr на пустоту](ptr/shared_ptr-if)
+- [Присваивание указателя переменной типа auto &](ptr/auto-ref-ptr)
 
 ## Перечисления
 
