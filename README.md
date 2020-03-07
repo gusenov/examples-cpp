@@ -110,6 +110,7 @@
 - [Декларация и дефиниция inline-функций в классе](syncfusion/cpp_succinctly/SimpleClassSample)
 - [Лямбда-выражения](syncfusion/cpp_succinctly/LambdaSample)
 - [Реализация функций с переменным числом аргументов через вариативные шаблоны](tpl/variadic-tpl)
+- [Передача перегруженной шаблонной функции в другую функцию с помощью вспомогательной структуры](tpl/pass-tpl-fn-as-param)
 
 
 # Исключения
