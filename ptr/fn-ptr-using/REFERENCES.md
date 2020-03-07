@@ -1,0 +1,1 @@
+- [c++ - How to typedef a function pointer with template arguments - Stack Overflow](https://stackoverflow.com/questions/29265451/how-to-typedef-a-function-pointer-with-template-arguments)
