@@ -165,6 +165,10 @@
 
 ## Коллекции
 
+### Векторы
+
+- [Вставка элемента в std::vector в заданную позицию](std/collections/vector/vector-insert)
+
 ### Словари
 
 - [std::unordered_map при своём разрушении не вызывает деструктор для значений хранящихся по указателю](std/collections/map/unordered-map-el-dtor)
