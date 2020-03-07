@@ -144,6 +144,7 @@
 - [Множественное определение stand-alone функции в исходных файлах](errors/multiple-definitions-of-stand-alone-function-in-source-files)
 - [Множественное определение переменной в исходных файлах](errors/multiple-definitions-of-variables-in-source-files)
 - [Перекрытие лямбда-параметром захваченной переменной](errors/lambda-param-shadow-captured-entity)
+- [Шаблонные методы не могут быть виртуальными](tpl/virtual-with-tpl)
 
 
 # Идиомы
