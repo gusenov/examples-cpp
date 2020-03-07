@@ -179,6 +179,7 @@
 - [Изменение значений в словаре путём операций на итератором](std/collections/map/change-map-item-value)
 - [Метод insert у std::unordered_map не обновляет существующее значение](std/collections/map/map-insert)
 - [Словарь из словарей со значением из класса по значению](std/collections/map/map-of-maps)
+- [Словарь с ключом типа int и значением типа множество строк](std/collections/map/unordered-map-of-unordered-sets)
 
 ### Итераторы
 
