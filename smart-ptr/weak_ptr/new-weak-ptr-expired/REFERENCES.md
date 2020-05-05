@@ -1,0 +1,1 @@
+- [std::weak_ptr::expired — cppreference.com](https://ru.cppreference.com/w/cpp/memory/weak_ptr/expired)
