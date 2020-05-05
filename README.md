@@ -213,6 +213,7 @@
 ## Умные указатели
 
 - [Сравнение shared_ptr](smart-ptr/shared_ptr/cmp-shared-ptr)
+- [Простейшая реализация shared_from_this функциональности](smart-ptr/shared_ptr/shared-from-this)
 
 
 # Макросы

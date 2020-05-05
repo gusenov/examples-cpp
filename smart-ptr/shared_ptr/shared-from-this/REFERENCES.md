@@ -1,0 +1,2 @@
+- [std::enable_shared_from_this — cppreference.com](https://ru.cppreference.com/w/cpp/memory/enable_shared_from_this)
+- [c++ - std::bad_weak_ptr exception when using shared_from_this - Stack Overflow](https://stackoverflow.com/questions/45210772/stdbad-weak-ptr-exception-when-using-shared-from-this)
