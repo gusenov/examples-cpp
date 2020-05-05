@@ -185,6 +185,7 @@
 - [Словарь из словарей со значением из класса по значению](std/collections/map/map-of-maps)
 - [Словарь с ключом типа int и значением типа множество строк](std/collections/map/unordered-map-of-unordered-sets)
 - [Получение значения по ссылке из std::unordered_map](std/collections/map/get-val-in-map-by-ref)
+- [Обход словаря состоящего из словарей](std/collections/map/loop-through-map-of-maps)
 
 ### Итераторы
 
