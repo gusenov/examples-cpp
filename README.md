@@ -212,11 +212,17 @@
 
 ## Умные указатели
 
+## std::shared_ptr
+
 - [Сравнение shared_ptr](smart-ptr/shared_ptr/cmp-shared-ptr)
 - [Простейшая реализация shared_from_this функциональности](smart-ptr/shared_ptr/shared-from-this)
 - [Приведение типов умных указателей](smart-ptr/shared_ptr/shared-ptr-casting)
 - [Сброс std::shared_ptr](smart-ptr/shared_ptr/shared-ptr-reset)
 - [Удаление элемента из std::vector<std::shared_ptr<…>>](smart-ptr/shared_ptr/vec-with-shared-ptr-items)
+
+## std::weak_ptr
+
+- [Как работают методы expired() и lock() у std::weak_ptr](smart-ptr/weak_ptr/lock-weak-ptr)
 
 
 # Макросы
