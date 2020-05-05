@@ -224,6 +224,7 @@
 
 - [Как работают методы expired() и lock() у std::weak_ptr](smart-ptr/weak_ptr/lock-weak-ptr)
 - [Автоматическая инвалидация std::weak_ptr при выходе из области видимости](smart-ptr/weak_ptr/new-weak-ptr-expired)
+- [Как работает weak_from_this()](smart-ptr/weak_ptr/weak-from-this)
 
 
 # Макросы
