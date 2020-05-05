@@ -61,6 +61,7 @@
 
 - [Анонимное объединение внутри структуры с отслеживанием активного элемента](syncfusion/cpp_succinctly/UnionSample)
 - [Передача объединения в функцию](union/pass-union-to-function)
+- [Объединение указателей](union/union-of-ptr)
 
 ## Классы
 
