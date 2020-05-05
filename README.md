@@ -214,6 +214,7 @@
 
 - [Сравнение shared_ptr](smart-ptr/shared_ptr/cmp-shared-ptr)
 - [Простейшая реализация shared_from_this функциональности](smart-ptr/shared_ptr/shared-from-this)
+- [Приведение типов умных указателей](smart-ptr/shared_ptr/shared-ptr-casting)
 
 
 # Макросы
