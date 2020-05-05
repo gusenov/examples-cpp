@@ -184,6 +184,7 @@
 - [Метод insert у std::unordered_map не обновляет существующее значение](std/collections/map/map-insert)
 - [Словарь из словарей со значением из класса по значению](std/collections/map/map-of-maps)
 - [Словарь с ключом типа int и значением типа множество строк](std/collections/map/unordered-map-of-unordered-sets)
+- [Получение значения по ссылке из std::unordered_map](std/collections/map/get-val-in-map-by-ref)
 
 ### Итераторы
 
