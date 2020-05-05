@@ -210,6 +210,10 @@
 - [std::any как параметр функции и передача в него значения с автоматическим преобразованием](std/containers/any/std-any-as-param)
 - [Что будет если применить std::advance к std::unordered_set](std/containers/set/advance-on-set)
 
+## Умные указатели
+
+- [Сравнение shared_ptr](smart-ptr/shared_ptr/cmp-shared-ptr)
+
 
 # Макросы
 
