@@ -1,0 +1,1 @@
+- [C++: Is it possible to use a reference as the value in a map? - Stack Overflow](https://stackoverflow.com/questions/4239253/c-is-it-possible-to-use-a-reference-as-the-value-in-a-map)
