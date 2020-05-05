@@ -207,7 +207,13 @@
 
 ## Контейнеры
 
+### std::any
+
 - [std::any как параметр функции и передача в него значения с автоматическим преобразованием](std/containers/any/std-any-as-param)
+- [Контейнер свойств на основе std::any](std/containers/any/property-container)
+
+### std::unordered_set
+
 - [Что будет если применить std::advance к std::unordered_set](std/containers/set/advance-on-set)
 
 ## Умные указатели
