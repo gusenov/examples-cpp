@@ -217,6 +217,10 @@
 
 - [Что будет если применить std::advance к std::unordered_set](std/containers/set/advance-on-set)
 
+### std::list
+
+- [Сравнение двух списков из std::pair<std::string, std::string>](std/collections/list/cmp-list-of-pairs)
+
 ## Умные указатели
 
 ## std::shared_ptr
