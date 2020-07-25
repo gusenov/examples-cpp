@@ -231,6 +231,7 @@
 - [Приведение типов умных указателей](smart-ptr/shared_ptr/shared-ptr-casting)
 - [Сброс std::shared_ptr](smart-ptr/shared_ptr/shared-ptr-reset)
 - [Удаление элемента из std::vector<std::shared_ptr<…>>](smart-ptr/shared_ptr/vec-with-shared-ptr-items)
+- [std::shared_ptr не вызывающий деструктор](smart-ptr/shared_ptr/null-deleter)
 
 ## std::weak_ptr
 
