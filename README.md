@@ -37,6 +37,7 @@
 - [Присвоение экземпляру std::string массива char](str/assign-char-arr-to-string)
 - [Сравнение std::string и литеральной строки](str/cmp-std-str-with-char-arr)
 - [Преобразование std::string к float и обратно](fundamental/real2str)
+- [Преобразование std::string в std::wstring и обратно](str/wstring_convert)
 
 ## Указатели
 
