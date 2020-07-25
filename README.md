@@ -30,6 +30,7 @@
 - [Размеры фундаментальных типов данных](fundamental/fundamental-type-sz)
 - [Upcasting знаковых целых и их битовое представление](fundamental/upcasting-signed)
 - [Бинарное представление char, unsigned char, short и unsigned short](fundamental/bin-repr-of-type-val)
+- [Побитовое «ИЛИ» с bool](fundamental/bitwise-or-with-bool-type)
 
 ## Строки
 
