@@ -232,6 +232,7 @@
 - [Сброс std::shared_ptr](smart-ptr/shared_ptr/shared-ptr-reset)
 - [Удаление элемента из std::vector<std::shared_ptr<…>>](smart-ptr/shared_ptr/vec-with-shared-ptr-items)
 - [std::shared_ptr не вызывающий деструктор](smart-ptr/shared_ptr/null-deleter)
+- [Различия в создании shared_ptr через конструктор и make_shared](smart-ptr/shared_ptr/shared_ptr-vs-make_shared)
 
 ## std::weak_ptr
 
