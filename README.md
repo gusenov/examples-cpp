@@ -187,6 +187,10 @@
 
 - [Вставка элемента в std::vector в заданную позицию](std/collections/vector/vector-insert)
 
+### std::list
+
+- [Сравнение двух списков из std::pair<std::string, std::string>](std/collections/list/cmp-list-of-pairs)
+
 ### Словари
 
 - [std::unordered_map при своём разрушении не вызывает деструктор для значений хранящихся по указателю](std/collections/map/unordered-map-el-dtor)
@@ -218,9 +222,9 @@
 
 - [Что будет если применить std::advance к std::unordered_set](std/containers/set/advance-on-set)
 
-### std::list
+### std::tuple
 
-- [Сравнение двух списков из std::pair<std::string, std::string>](std/collections/list/cmp-list-of-pairs)
+- [std::tuple из статических методов](std/containers/tuple/tuple-of-static-methods)
 
 ## Умные указатели
 
