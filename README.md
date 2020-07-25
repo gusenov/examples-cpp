@@ -94,6 +94,8 @@
 - [Аргументы по умолчанию в виртуальных функциях](inheritance/def-arg-and-virt-func)
 - [Переопределение в производном классе возвращаемого типа производным типом](override/override-method-return-value-with-subclass)
 - [Последнее переопределение виртуального метода будет вызываться на всех уровнях иерархии](override/overrided-method-call)
+- [dynamic_cast не может привести к результирующему типу если начальный тип не является потомком результирующего и не имеет с ним общего предка](inheritance/inheritance-dynamic-cast-to-other-branch)
+- [dynamic_cast и виртуальное наследование](inheritance/virtual-inheritance-dynamic-cast)
 
 ### Интерфейсы
 
