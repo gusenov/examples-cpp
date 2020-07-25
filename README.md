@@ -181,9 +181,12 @@
 
 # Стандартная библиотека
 
-## Коллекции
 
-### Векторы
+
+
+## Коллекции и контейнеры
+
+### std::vector
 
 - [Вставка элемента в std::vector в заданную позицию](std/collections/vector/vector-insert)
 
@@ -191,7 +194,7 @@
 
 - [Сравнение двух списков из std::pair<std::string, std::string>](std/collections/list/cmp-list-of-pairs)
 
-### Словари
+### std::map и std::unordered_map
 
 - [std::unordered_map при своём разрушении не вызывает деструктор для значений хранящихся по указателю](std/collections/map/unordered-map-el-dtor)
 - [Изменение значений в словаре путём операций на итератором](std/collections/map/change-map-item-value)
@@ -202,29 +205,37 @@
 - [Обход словаря состоящего из словарей](std/collections/map/loop-through-map-of-maps)
 - [Нельзя создать словарь со значением типа ссылки](std/collections/map/map-val-by-ref)
 
-### Итераторы
+### std::set и std::unordered_set
 
-- [Кастомный итератор по древовидной структуре](it/tree-iter)
+- [Что будет если применить std::advance к std::unordered_set](std/containers/set/advance-on-set)
+- [Изменение ключа у элемента множества не приводит к изменению порядка элемента](std/containers/set/set-with-cmp-el)
 
-## Потоки данных
+### std::tuple
 
-- [Потоки из стандартной библиотеки](stream/streams)
-- [Кастомный поточный буфер для чтения массива байтов из памяти](stream/custom-stream-buffer)
-
-## Контейнеры
+- [std::tuple из статических методов](std/containers/tuple/tuple-of-static-methods)
 
 ### std::any
 
 - [std::any как параметр функции и передача в него значения с автоматическим преобразованием](std/containers/any/std-any-as-param)
 - [Контейнер свойств на основе std::any](std/containers/any/property-container)
 
-### std::unordered_set
 
-- [Что будет если применить std::advance к std::unordered_set](std/containers/set/advance-on-set)
 
-### std::tuple
 
-- [std::tuple из статических методов](std/containers/tuple/tuple-of-static-methods)
+## Итераторы
+
+- [Кастомный итератор по древовидной структуре](it/tree-iter)
+
+
+
+
+## Потоки данных
+
+- [Потоки из стандартной библиотеки](stream/streams)
+- [Кастомный поточный буфер для чтения массива байтов из памяти](stream/custom-stream-buffer)
+
+
+
 
 ## Умные указатели
 
@@ -244,6 +255,8 @@
 - [Автоматическая инвалидация std::weak_ptr при выходе из области видимости](smart-ptr/weak_ptr/new-weak-ptr-expired)
 - [Как работает weak_from_this()](smart-ptr/weak_ptr/weak-from-this)
 - [Приведение типа пустого std::weak_ptr](smart-ptr/weak_ptr/cast-weak-ptr)
+
+
 
 
 # Макросы
