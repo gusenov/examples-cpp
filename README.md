@@ -205,6 +205,7 @@
 - [Получение значения по ссылке из std::unordered_map](std/collections/map/get-val-in-map-by-ref)
 - [Обход словаря состоящего из словарей](std/collections/map/loop-through-map-of-maps)
 - [Нельзя создать словарь со значением типа ссылки](std/collections/map/map-val-by-ref)
+- [Применение std::max_element к std::map](std/collections/map/map-int-str)
 
 ### std::set и std::unordered_set
 
