@@ -57,6 +57,7 @@
 - [Scoped и un-scoped перечисления с указанием нижележащего интегрального (целочисленного) типа](syncfusion/cpp_succinctly/EnumSample)
 - [Передача перечисления в функцию](enum/pass-enum-to-function)
 - [Использование элементов перечисления в качестве флагов для битовой маски](enum/bit-mask-with-enum-as-flag)
+- [Преобразование enum в строку и обратно](enum/enum-converter)
 
 ## Объединения
 
