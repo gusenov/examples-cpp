@@ -189,6 +189,7 @@
 ### std::vector
 
 - [Вставка элемента в std::vector в заданную позицию](std/collections/vector/vector-insert)
+- [Упорядоченная вставка объектов с компаратором в вектор](std/collections/vector/ins-el-into-vec)
 
 ### std::list
 
