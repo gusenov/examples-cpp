@@ -161,6 +161,7 @@
 ## Трейты, характеристики, типажи, метафункции
 
 - [Введение в трейты](tpl/intro-to-traits)
+- [std::is_pointer_v<YOUR_TYPE*&> возвращает false](tpl/type-traits-is-pointer)
 
 # Кросс-платформенность
 
