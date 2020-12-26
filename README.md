@@ -32,6 +32,7 @@
 - [Upcasting знаковых целых и их битовое представление](fundamental/upcasting-signed)
 - [Бинарное представление char, unsigned char, short и unsigned short](fundamental/bin-repr-of-type-val)
 - [Побитовое «ИЛИ» с bool](fundamental/bitwise-or-with-bool-type)
+- [Присваивание ULONG_MAX float-переменной и обратно](fundamental/ulong-to-float)
 
 ## Строки
 
