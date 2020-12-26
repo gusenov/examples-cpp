@@ -12,6 +12,7 @@
 # Операторы
 
 - [Написание оператора разрешения области видимости ::](double-colon-scope-resolution-operator-syntax/)
+- [Переопределение операторов new и delete для отслеживания аллокаций](memory/allocation-tracking)
 
 
 # Ввод / вывод
