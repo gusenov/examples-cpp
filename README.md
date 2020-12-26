@@ -212,6 +212,7 @@
 - [Обход словаря состоящего из словарей](std/collections/map/loop-through-map-of-maps)
 - [Нельзя создать словарь со значением типа ссылки](std/collections/map/map-val-by-ref)
 - [Применение std::max_element к std::map](std/collections/map/map-int-str)
+- [Использование указателя на класс как ключа для std::unordered_map](std/collections/map/ptr-as-key-in-map)
 
 ### std::set и std::unordered_set
 
