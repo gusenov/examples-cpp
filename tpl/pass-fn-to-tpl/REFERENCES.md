@@ -1,0 +1,2 @@
+- [c++11 - C++ Pass lambda to template parameter - Stack Overflow](https://stackoverflow.com/questions/41987175/c-pass-lambda-to-template-parameter)
+- [Calling C++ class methods via a function pointer - Stack Overflow](https://stackoverflow.com/questions/1485983/calling-c-class-methods-via-a-function-pointer)
