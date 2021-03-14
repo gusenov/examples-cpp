@@ -131,6 +131,10 @@
 - [Декларация и дефиниция inline-функций в классе](syncfusion/cpp_succinctly/SimpleClassSample)
 - [Лямбда-выражения](syncfusion/cpp_succinctly/LambdaSample)
 
+## Анонимные функции
+
+- [Захват parameter pack в лямбда-функцию](lambda/capture-variadic-parameter-pack)
+
 ## Шаблонные функции
 
 - [Реализация функций с переменным числом аргументов через вариативные шаблоны](tpl/variadic-tpl)

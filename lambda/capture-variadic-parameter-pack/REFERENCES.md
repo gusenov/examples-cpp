@@ -1,0 +1,1 @@
+- [c++ - How to combine std::bind(), variadic templates, and perfect forwarding? - Stack Overflow](https://stackoverflow.com/questions/18380820/how-to-combine-stdbind-variadic-templates-and-perfect-forwarding)
