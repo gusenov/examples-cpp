@@ -130,6 +130,7 @@
 - [Декларация и дефиниция inline-функций в пространстве имён](syncfusion/cpp_succinctly/FunctionsSample)
 - [Декларация и дефиниция inline-функций в классе](syncfusion/cpp_succinctly/SimpleClassSample)
 - [Лямбда-выражения](syncfusion/cpp_succinctly/LambdaSample)
+- [Передача статического массива указателей в функцию](fn/pass-static-arr-of-ptr-into-fn)
 
 ## Анонимные функции
 
