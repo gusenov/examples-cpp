@@ -114,6 +114,7 @@
 ### Методы
 
 - [Виртуальный вариативный метод](virtual/virtual-variadic-method)
+- [Перегрузка метода с std::shared_ptr-параметром](overloading/call-is-ambiguous)
 
 
 # Константность
