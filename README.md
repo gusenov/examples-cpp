@@ -117,6 +117,7 @@
 - [Пример интерфейса автомобиля с использованием динамического полиморфизма и ключевого слова struct](interfaces/virtual/example-1)
 - [Пример интерфейса генерации числа с использованием динамического полиморфизма и ключевого слова class](interfaces/virtual/example-2)
 - [Имплементация метода прямо в интерфейсе](interfaces/method-with-impl-in-interface)
+- [Сравнение наследования интерфейса в Java и С++](interfaces/iface-inheritance-cpp-vs-java)
 
 ### Методы
 
