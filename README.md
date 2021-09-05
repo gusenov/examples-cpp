@@ -58,6 +58,8 @@
 
 ## [Move semantics]((move-semantics)
 
+- [Перемещение лямбды](move-lambda-as-param)
+
 ## Перечисления
 
 - [Scoped и un-scoped перечисления с указанием нижележащего интегрального (целочисленного) типа](syncfusion/cpp_succinctly/EnumSample)
