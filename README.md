@@ -56,6 +56,8 @@
 - [Присваивание и возврат ссылок](ref/assign-ref2ref)
 - [Const-ссылка на временный объект - life time временного объекта продлевается до времени жизни ссылки](ref/assign-val-to-const-ref)
 
+## [Move semantics]((move-semantics)
+
 ## Перечисления
 
 - [Scoped и un-scoped перечисления с указанием нижележащего интегрального (целочисленного) типа](syncfusion/cpp_succinctly/EnumSample)
