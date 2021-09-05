@@ -270,7 +270,7 @@
 
 ## Умные указатели
 
-## std::shared_ptr
+### std::shared_ptr
 
 - [Сравнение shared_ptr](smart-ptr/shared_ptr/cmp-shared-ptr)
 - [Простейшая реализация shared_from_this функциональности](smart-ptr/shared_ptr/shared-from-this)
@@ -280,12 +280,16 @@
 - [std::shared_ptr не вызывающий деструктор](smart-ptr/shared_ptr/null-deleter)
 - [Различия в создании shared_ptr через конструктор и make_shared](smart-ptr/shared_ptr/shared_ptr-vs-make_shared)
 
-## std::weak_ptr
+### std::weak_ptr
 
 - [Как работают методы expired() и lock() у std::weak_ptr](smart-ptr/weak_ptr/lock-weak-ptr)
 - [Автоматическая инвалидация std::weak_ptr при выходе из области видимости](smart-ptr/weak_ptr/new-weak-ptr-expired)
 - [Как работает weak_from_this()](smart-ptr/weak_ptr/weak-from-this)
 - [Приведение типа пустого std::weak_ptr](smart-ptr/weak_ptr/cast-weak-ptr)
+
+### std::unique_ptr
+
+- [При присваивании std::unique_ptr происходит деструкция содержимого](smart-ptr/unique_ptr/unique-ptr-assign)
 
 
 
