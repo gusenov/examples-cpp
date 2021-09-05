@@ -21,6 +21,7 @@
 - [std::wcout, std::wcerr, std::wcin](syncfusion/cpp_succinctly/ConsoleSample)
 - [std::ofstream никогда не создает папки](fs/out-to-file)
 - [Создание каталога с помощью функции mkdir() из библиотеки C POSIX](fs/posix-create-dir-if-not-exists)
+- [Копирование папки](fs/copy-dir)
 
 # Типы данных
 
