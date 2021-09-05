@@ -285,6 +285,7 @@
 
 - [Получение ID потока и сон (sleep) в потоке](multithreading/thread-id)
 - [Использование std::async и std::future](multithreading/std-async-n-future)
+- [std::condition_variable проверяет условие ожидания при запуске и при вызове notify](multithreading/cond-var-wait)
 
 
 
