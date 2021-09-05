@@ -25,6 +25,7 @@
 
 - [Создание псевдонимов для типов с помощью typedef](syncfusion/cpp_succinctly/TypedefSample)
 - [Кастинг типов данных](syncfusion/cpp_succinctly/CastingSample)
+- [Forward declaration типов](type/fwd-dec)
 
 ## Примитивные типы данных
 
