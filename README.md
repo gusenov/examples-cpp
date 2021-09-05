@@ -7,6 +7,7 @@
 # Переменные
 
 - [Время существования переменных](syncfusion/cpp_succinctly/StorageDurationSample/)
+- [Инициализация статической переменной в локальной области видимости происходит лишь однажды](static/static-var-in-local-scope)
 
 
 # Операторы
