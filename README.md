@@ -284,6 +284,7 @@
 ## Многопоточность
 
 - [Получение ID потока и сон (sleep) в потоке](multithreading/thread-id)
+- [Использование std::async и std::future](multithreading/std-async-n-future)
 
 
 
