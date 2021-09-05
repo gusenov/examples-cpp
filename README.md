@@ -73,6 +73,7 @@
 ## Классы
 
 - [Особенности использования переменных из member initializer list для инициализации других переменных](member-initializer-list-params/)
+- [Возврат экземпляра приватного класса](class/return-private-class-instance)
 
 ### Конструкторы
 
