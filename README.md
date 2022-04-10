@@ -112,6 +112,7 @@
 
 ### Интерфейсы
 
+- [Research по статическим интерфейсам в C++](interfaces/static-interfaces)
 - [Пример имитации интерфейса IWriteData абстрактным классом](syncfusion/cpp_succinctly/AbstractClassSample)
 - [Декларация интерфейсов в C++](declare-interface-cpp/)
 - [Способы декларировать интерфейс в C++11](way-to-declare-an-interface/)
