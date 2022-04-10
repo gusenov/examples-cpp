@@ -199,7 +199,7 @@
 
 # Идиомы
 
-## Curiously recurring template pattern (CRTP)
+## [Curiously recurring template pattern (CRTP)](crtp)
 
 - [CRTP со статической функцией](crtp/example-1)
 - [Пример одного и того же алгоритма с CRTP и без CRTP](crtp/example-2)

@@ -1,1 +1,2 @@
 - [c++ - Confusion about CRTP static polymorphism - Stack Overflow](https://stackoverflow.com/questions/43821541/confusion-about-crtp-static-polymorphism)
+- [c++ - CRTP and multilevel inheritance - Stack Overflow](https://stackoverflow.com/questions/18174441/crtp-and-multilevel-inheritance)
