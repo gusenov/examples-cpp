@@ -208,6 +208,10 @@
 
 - [Сэндвич](syncfusion/cpp_succinctly/PimplSample)
 
+## [Type Erasure](type-erasure)
+
+- [RPG game](type-erasure/rpg-game)
+
 
 # Стандартная библиотека
 
