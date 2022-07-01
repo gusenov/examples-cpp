@@ -76,6 +76,7 @@
 - [Анонимное объединение внутри структуры с отслеживанием активного элемента](syncfusion/cpp_succinctly/UnionSample)
 - [Передача объединения в функцию](union/pass-union-to-function)
 - [Объединение указателей](union/union-of-ptr)
+- [Определение stream insertion оператора “<<” для объединения](union/union-and-stream-insertion-operator)
 
 ## Классы
 
