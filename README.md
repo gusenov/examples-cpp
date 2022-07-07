@@ -2,6 +2,7 @@
 
 - [Глобальные переменные в глобальном пространстве имён](syncfusion/cpp_succinctly/GlobalNamespaceSample/)
 - [Определение вложенных пространств имён](syncfusion/cpp_succinctly/NamespacesSample/)
+- [Безымянные пространства имен внутри именованных](ns/unnamed-namespace-within-named)
 
 
 # Переменные
