@@ -143,6 +143,7 @@
 - [Декларация и дефиниция inline-функций в классе](syncfusion/cpp_succinctly/SimpleClassSample)
 - [Лямбда-выражения](syncfusion/cpp_succinctly/LambdaSample)
 - [Передача статического массива указателей в функцию](fn/pass-static-arr-of-ptr-into-fn)
+- [Проверка ```std::function``` на пустоту](std/std-function/std-function-empty)
 
 ## Анонимные функции
 
