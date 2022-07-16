@@ -111,6 +111,7 @@
 - [dynamic_cast не может привести к результирующему типу если начальный тип не является потомком результирующего и не имеет с ним общего предка](inheritance/inheritance-dynamic-cast-to-other-branch)
 - [dynamic_cast и виртуальное наследование](inheritance/virtual-inheritance-dynamic-cast)
 - [Ковариантный возвращаемый тип виртуальной функции](virtual/chg-type-of-param-in-subclass-method)
+- [Изменение модификатора доступа унаследованного метода](inheritance/change-access-modifier)
 
 ### Интерфейсы
 
