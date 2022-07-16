@@ -250,6 +250,7 @@
 - [Применение std::max_element к std::map](std/collections/map/map-int-str)
 - [Использование указателя на класс как ключа для std::unordered_map](std/collections/map/ptr-as-key-in-map)
 - [std::pair в качестве ключа для словаря](std/collections/map/pair-as-key)
+- [Удаление из std::map](std/collections/map/map-erase)
 
 ### std::set и std::unordered_set
 
