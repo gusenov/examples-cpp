@@ -150,6 +150,7 @@
 
 - [Захват parameter pack в лямбда-функцию](lambda/capture-variadic-parameter-pack)
 - [При захвате this, переменные экземпляра класса не копируются](lambda/lambda-capture-this)
+- [Перегрузка функций с лямбда-функцией в качестве аргумента](tpl/lambda-overloading)
 
 ## Шаблонные функции
 
