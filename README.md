@@ -37,6 +37,7 @@
 - [Бинарное представление char, unsigned char, short и unsigned short](fundamental/bin-repr-of-type-val)
 - [Побитовое «ИЛИ» с bool](fundamental/bitwise-or-with-bool-type)
 - [Присваивание ULONG_MAX float-переменной и обратно](fundamental/ulong-to-float)
+- [Присваивание ```true```/```false``` int-переменной](fundamental/assign-bool-to-int)
 
 ## Строки
 
