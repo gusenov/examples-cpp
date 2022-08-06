@@ -61,9 +61,10 @@
 - [Присваивание и возврат ссылок](ref/assign-ref2ref)
 - [Const-ссылка на временный объект - life time временного объекта продлевается до времени жизни ссылки](ref/assign-val-to-const-ref)
 
-## [Move semantics]((move-semantics)
+## [Move semantics](move-semantics)
 
-- [Перемещение лямбды](move-lambda-as-param)
+- [Перемещение лямбды](move-semantics/move-lambda-as-param)
+- [Передача ```std::unique_ptr``` в функцию](move-semantics/pass-std-unique-ptr-to-fn)
 
 ## Перечисления
 
