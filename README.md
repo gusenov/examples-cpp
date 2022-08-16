@@ -339,6 +339,7 @@
 # Генерация случайных чисел
 
 - [Генерация случайного целого числа в заданном диапазоне](rnd/random-int-in-range)
+- [При использовании ```std::random_device``` может быть исключение ```libc++abi: terminating with uncaught exception of type std::__1::system_error: random_device failed to open /dev/urandom: Too many open files```](rnd/random-device-usage)
 
 
 # Регулярные выражения
