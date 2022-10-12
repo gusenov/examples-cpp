@@ -30,9 +30,34 @@ void test1() {
 
     std::cout << "end;" << std::endl;
 }
+/*
+Clazz()
+end;
+~Clazz()
+end.
+ */
 
-int main(int argc, char const * argv[]) {
-    test1();
+void test2()
+{
+    std::shared_ptr<Clazz> a;
+
+    {
+        std::shared_ptr<Clazz> b = std::make_unique<Clazz>();
+        a = b->shared();
+    }
+
+    std::cout << "end;" << std::endl;
+}
+/*
+Clazz()
+end;
+~Clazz()
+end.
+*/
+
+int main(int argc, char const * argv[])
+{
+    test2();
 
     std::cout << "end." << std::endl;
     return EXIT_SUCCESS;
