@@ -139,6 +139,7 @@
 - [Вектор указателей со спецификаторами константности](const/std-vector-with-const-el)
 - [Два метода класса с одинаковыми именами, но один из них константный](const/methods-with-same-name-without-args)
 - [Удаление константности с типа](const/remove-const-from-type)
+- [Взятие адреса ```mutable``` поля класса](const/mutable-and-reference-operator)
 
 
 # Функции
