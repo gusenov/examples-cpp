@@ -259,6 +259,7 @@
 - [Использование указателя на класс как ключа для std::unordered_map](std/collections/map/ptr-as-key-in-map)
 - [std::pair в качестве ключа для словаря](std/collections/map/pair-as-key)
 - [Удаление из std::map](std/collections/map/map-erase)
+- [Использование умного указателя в качестве ключа для словаря](std/collections/map/smart-ptr-as-key)
 
 ### std::set и std::unordered_set
 
