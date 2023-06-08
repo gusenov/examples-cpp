@@ -95,6 +95,7 @@
 - [Конструкторы копирования/перемещения и операторы присваивания копированием/перемещением](syncfusion/cpp_succinctly/ConstructorsSample)
 - [Не вызывается конструктор копирования из-за return value optimization](ctor/return-optimization-copy-ctor)
 - [Порядок инициализации членов класса](ctor/init-priority)
+- [auto переменная не означает ссылку если ей присвоить ссылку](ctor/auto-return-copy-ctor)
 
 ### Деструкторы
 
