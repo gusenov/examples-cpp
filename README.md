@@ -116,6 +116,7 @@
 - [dynamic_cast и виртуальное наследование](inheritance/virtual-inheritance-dynamic-cast)
 - [Ковариантный возвращаемый тип виртуальной функции](virtual/chg-type-of-param-in-subclass-method)
 - [Изменение модификатора доступа унаследованного метода](inheritance/change-access-modifier)
+- [Будут ли перегружены от разных предков методы с одинаковыми именами и параметрами в наследнике? (по умолчанию нет)](override/same-super-methods)
 
 ### Интерфейсы
 
