@@ -15,7 +15,7 @@
 
 - [Написание оператора разрешения области видимости ::](double-colon-scope-resolution-operator-syntax/)
 - [Переопределение операторов new и delete для отслеживания аллокаций](memory/allocation-tracking)
-
+- [Жизненный цикл переменных в условии if](memory/declare-variable-in-if)
 
 # Ввод / вывод
 
