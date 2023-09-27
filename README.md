@@ -135,6 +135,7 @@
 - [Виртуальный вариативный метод](virtual/virtual-variadic-method)
 - [Перегрузка метода с std::shared_ptr-параметром](overloading/call-is-ambiguous)
 - [Текучий интерфейс](method/fluent-interface)
+- [Значения по умолчанию для параметров виртуальных методов](virtual/virtual-method-default-parameter)
 
 
 # Константность
