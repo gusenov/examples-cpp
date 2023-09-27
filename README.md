@@ -265,6 +265,10 @@
 - [Удаление из std::map](std/collections/map/map-erase)
 - [Использование умного указателя в качестве ключа для словаря](std/collections/map/smart-ptr-as-key)
 
+### std::queue
+
+- [```emplace``` пары в очередь](std/collections/queue/emplace-in-queue-of-pair)
+
 ### std::set и std::unordered_set
 
 - [Что будет если применить std::advance к std::unordered_set](std/containers/set/advance-on-set)
